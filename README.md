@@ -1,0 +1,1 @@
+# aa11-sequelize-update-delete-singular
